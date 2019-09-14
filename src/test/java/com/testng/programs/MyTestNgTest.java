@@ -20,7 +20,7 @@ public class MyTestNgTest {
 	
 	@Test
 	public void searchProduct() {
-	System.out.println("search iphone");
+	System.out.println("search iphonexs");
 	
    }
 	
